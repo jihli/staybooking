@@ -1,11 +1,6 @@
 package com.laioffer.staybooking.model;
-
-
 import jakarta.persistence.*;
-
-
 import java.util.Objects;
-
 
 @Entity
 @Table(name = "users")
