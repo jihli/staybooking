@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### ignore credentials.json
+src/main/resources/credentials.json
+src/main/resources/application.yml
