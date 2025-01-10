@@ -1,4 +1,4 @@
-### **Airbnb+: An Online Stay Rental Application**
+### **Staybooking: An Online Stay Rental Application**
 - Designed and developed a single-page web application using React, enhanced by the robust component library Ant Design.
 - Built and deployed backend services with Spring Boot to manage property uploads, deletions, searches, and reservations.
 - Utilized PostgreSQL to store user-generated data and Google Cloud Storage for managing media files.
